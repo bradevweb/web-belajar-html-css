@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial , sans-serif;
+}
+
+body{
+    background-color: rgb(251, 251, 251);
+}
+
+.navbar{
+    background: rgba(21, 59, 184, 0.696);
+    color:rgb(255, 255, 255);
+    height: 90px;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    border-style:outset;
+    border-color:rgb(228, 228, 241);
+}
+
+.materi{
+    background: rgb(241, 242, 246);
+    padding: 20px 20px 20px 20px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: outset;
+    border-color: rgb(236, 243, 255);
+}
+
+.cont{
+    color: rgb(29, 39, 49);
+    
+}
+
+.bagian{
+    background: rgb(241, 242, 246);
+    padding: 20px 20px 20px 20px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: outset;
+    border-color: rgb(236, 243, 255);
+}
+
+.bagian h3{
+    font-size: 20px;
+    font-variant: small-caps;
+}
+
+.contoh{
+    background: rgb(241, 242, 246);
+    padding: 20px 20px 20px 20px;
+    margin: 20px;
+    border-radius: 12px;
+    border-style: outset;
+    border-color: rgb(236, 243, 255);
+}
